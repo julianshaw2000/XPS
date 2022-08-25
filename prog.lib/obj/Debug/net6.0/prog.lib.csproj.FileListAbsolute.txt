@@ -1,0 +1,12 @@
+C:\_jobs\XPS\prog.lib\bin\Debug\net6.0\prog.lib.deps.json
+C:\_jobs\XPS\prog.lib\bin\Debug\net6.0\prog.lib.dll
+C:\_jobs\XPS\prog.lib\bin\Debug\net6.0\prog.lib.pdb
+C:\_jobs\XPS\prog.lib\obj\Debug\net6.0\prog.lib.csproj.AssemblyReference.cache
+C:\_jobs\XPS\prog.lib\obj\Debug\net6.0\prog.lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\_jobs\XPS\prog.lib\obj\Debug\net6.0\prog.lib.AssemblyInfoInputs.cache
+C:\_jobs\XPS\prog.lib\obj\Debug\net6.0\prog.lib.AssemblyInfo.cs
+C:\_jobs\XPS\prog.lib\obj\Debug\net6.0\prog.lib.csproj.CoreCompileInputs.cache
+C:\_jobs\XPS\prog.lib\obj\Debug\net6.0\prog.lib.dll
+C:\_jobs\XPS\prog.lib\obj\Debug\net6.0\refint\prog.lib.dll
+C:\_jobs\XPS\prog.lib\obj\Debug\net6.0\prog.lib.pdb
+C:\_jobs\XPS\prog.lib\obj\Debug\net6.0\ref\prog.lib.dll
